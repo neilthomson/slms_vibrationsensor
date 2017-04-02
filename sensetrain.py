@@ -34,8 +34,10 @@ class TrainSensor(SenseHat):
         Maps values to 0-8 for display on the RGB display matrix on the sense
         hat
 
-        data is a list of values,
-        min max is the range of accelerometer values to map.
+        data is a list of values
+
+        min_range and max_range are the expected upper and lower limits of the
+        data values
 
         Returns a list of values between 0-7 for x, y and z
         """
@@ -87,9 +89,9 @@ class TrainSensor(SenseHat):
 
     def display_accel_data(self, xyz_heights):
         """
-        Displays X Y Z accelerometer on the RGB display in Audio Spectral Analyser
-        fashion. Two rows are used per axis, in the order of x y z. X is red, Y is
-        green, z is blue. The last two rows are blank.
+        Displays X Y Z accelerometer on the RGB display in Audio Spectral
+        Analyser fashion. Two columns are used per axis, in the order of x y z.
+        X is red, Y is green, z is blue. The last two columns are blank.
 
         xyz_heights is a list of ints between 0-7 for x, y and z
         """
