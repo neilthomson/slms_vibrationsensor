@@ -12,3 +12,20 @@ $ python sensetrain.py high
 ```
 
 To enable high sensitivity readings to be displayed.
+
+## Data acquisiton tests
+
+From picking it up and shaking it around:  
+
+![alt text](images/shaking-it.png "Picking it up and shaking it around data")
+
+From knocking on the table next to it:  
+
+![alt text](images/knocking-it.png "Knocking on the table next to it data")
+
+Accelerometer data displayed on the RGB matrix
+
+![alt text](images/rgb-matrix.jpg "RGB matrix accelerometer data")
+
+
+
