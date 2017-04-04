@@ -29,6 +29,6 @@ Accelerometer data displayed on the RGB matrix
 
 ## Bill of materials (BOM)  
 
-* [Raspberry Pi] ()
+* [Raspberry Pi] (http://bit.ly/2nyBJ3V)
 
-* [Raspberry Pi Sense Hat] ()
+* [Raspberry Pi Sense Hat] (http://bit.ly/2nE67L2)
