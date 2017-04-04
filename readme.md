@@ -37,6 +37,6 @@ Accelerometer data displayed on the RGB matrix
 
 A solution based on the ubiquitous NodeMCU (ESP8266 arduino compatible wifi enabled board) with an accelerometer module should come in ten times cheaper - code not yet written.
 
-* [NoieMCU] (http://ebay.eu/2nS6hzd)
+* [NodeMCU] (http://ebay.eu/2nS6hzd)
 
 * [Accelerometer module] (http://ebay.eu/2nEpPqb)
