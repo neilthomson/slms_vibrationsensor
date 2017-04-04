@@ -32,3 +32,11 @@ Accelerometer data displayed on the RGB matrix
 * [Raspberry Pi] (http://bit.ly/2nyBJ3V)
 
 * [Raspberry Pi Sense Hat] (http://bit.ly/2nE67L2)
+
+## Alternative BOM
+
+A solution based on the ubiquitous NodeMCU (ESP8266 arduino compatible wifi enabled board) with an accelerometer module should come in ten times cheaper - code not yet written.
+
+* [NoieMCU] (http://ebay.eu/2nS6hzd)
+
+* [Accelerometer module] (http://ebay.eu/2nEpPqb)
