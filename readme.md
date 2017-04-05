@@ -35,7 +35,9 @@ Accelerometer data displayed on the RGB matrix
 
 ## Alternative BOM
 
-A solution based on the ubiquitous NodeMCU (ESP8266 arduino compatible wifi enabled board) with an accelerometer module should come in ten times cheaper - code not yet written.
+A solution based on the ubiquitous NodeMCU (ESP8266 arduino compatible wifi enabled board) with ADXL335 accelerometer module should come in ten times cheaper.  
+
+Untested code in the [arduino](arduino) folder.
 
 * [NodeMCU] (http://ebay.eu/2nS6hzd)
 
