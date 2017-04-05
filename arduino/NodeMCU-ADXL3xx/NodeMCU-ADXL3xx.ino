@@ -9,6 +9,9 @@
 
  http://www.arduino.cc/en/Tutorial/ADXL3xx
 
+ Wiring diagram:
+ https://www.arduino.cc/en/uploads/Tutorial/ADXL3XX_2_schem.png
+
  The circuit:
  analog 0: accelerometer self test
  analog 1: z-axis
